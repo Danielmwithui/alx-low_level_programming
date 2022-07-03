@@ -3,10 +3,11 @@
 #include <stdio.h>
 
 /**
- *  * main - Entry point
- *   *
- *    * Return: Always 0 (Successs/correct)
- *     */
+ *  main - Entry point
+ * 
+ * Return: Always 0 (Successs/correct)
+ *
+ */
 
 int main(void)
 {
@@ -32,4 +33,4 @@ int main(void)
 
 	return (0);
 
-}
+ii}
