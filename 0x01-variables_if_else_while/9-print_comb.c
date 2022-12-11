@@ -1,10 +1,10 @@
-i#include <stdio.h>
+#include <stdio.h>
 /**
- *  * main - Entry point
- *   *
- *    * Return: Always 0 (Success/correct)
+ * main - Entry point
  *
-      */
+ * Return: Always 0 (Success/correct)
+ *
+ */
 int main(void)
 
 {

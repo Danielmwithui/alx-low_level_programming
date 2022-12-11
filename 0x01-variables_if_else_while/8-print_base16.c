@@ -1,14 +1,11 @@
 #include <stdio.h>
 
 /**
+ *  main - entry point
  *
- *  * main - entry point
+ * Return: Always 0 (success/correct)
  *
- *   *
- *
- *    * Return: Always 0 (success/correct)
- *
- *     */
+ */
 
 int main(void)
 
