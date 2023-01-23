@@ -1,9 +1,3 @@
-2-print_dog.c CODE
-
-
-
-
-
 #include <stdio.h>
 
 #include <stdlib.h>
